@@ -1,16 +1,16 @@
-### Hi there 👋
+# Bruno Hygino
 
-<!--
-**BrunoMachado25/BrunoMachado25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá pessoal 👋
+Sou apaixonado por resolver problemas e automatizar tarefas.
+ :computer:
 
-Here are some ideas to get you started:
+ :mortar_board:; No momento estou cursando Análise e Desenvolvimento de Sistemas e buscando uma oportunidade de trabalho.
+ <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
+ <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
+ <br/> :computer: &nbsp; Minha stack: ReactJS, buscando aprender mais
+ <br/> 💬  &nbsp; Sobre mim: Gosto de tecnologia, Séries e DotA.
+ <br/> :email: &nbsp; Entre em contato comigo: 
+| 
+[![Gmail Badge](https://img.shields.io/badge/-bhmachado1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bhmachado1@gmail.com)](mailto:bhmachado1@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
